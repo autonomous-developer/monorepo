@@ -1,6 +1,6 @@
 ```
 title: Monorepo
-description: "Codebase for my Independent Projects and Practice"
+description: "Codebase/Directory for my Independent Projects and Practice"
 ```
 
 ## Directory Structure
